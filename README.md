@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System (Task 5 - Elevvo ML Internship)
+## 🎬 Movie Recommendation System (Task 5 - Elevvo ML Internship)
 
 This project implements a **Movie Recommendation System** using **Collaborative Filtering** and **Matrix Factorization (SVD)**.  
 It recommends movies to users based on their past ratings and similarities with other users/items.  
